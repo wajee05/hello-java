@@ -17,6 +17,7 @@ public class HelloWorld {
     public static void main(String[] args) {
 
         System.out.println("Hello liah");
+        System.out.println("Richer is waving");
         
       }
     
